@@ -1,0 +1,13 @@
+insert AGGATTATTA
+insert GTATTTATAAT
+insert CGGAATTATTA
+insert CCCCAAGGGAG
+insert TTGGAGGAG
+insert CCCCC
+insert GGAGGAGGAGG
+insert AAAAAA
+insert AAATTSST
+print
+search AAA
+search CC
+search AAAAAA$

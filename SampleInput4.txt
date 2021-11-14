@@ -1,0 +1,5 @@
+insert TATATATA
+insert TATATATATA
+print
+search TGATA
+

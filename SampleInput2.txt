@@ -1,0 +1,4 @@
+insert AAA
+insert AA
+print
+search AA
